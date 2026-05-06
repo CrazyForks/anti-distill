@@ -117,6 +117,9 @@ anti-distill/
 └── examples/
     └── zhangsan_before_after.md
 ```
+## 交流群 / Community
+<img width="939" height="1491" alt="c298b1ab312f6fecb7de97b4ba85386" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
+
 
 ---
 
