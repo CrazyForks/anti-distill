@@ -1,35 +1,34 @@
-# 反蒸馏 Skill / anti-distill
+# anti-distill
+
+> 反蒸馏 Skill：公司让你写 Skill？跑一遍，交差用。核心知识留给自己。
+>
+> Anti-Distill Skill: your company asks you to write a Skill? Run it through, submit the output, and keep the core knowledge to yourself.
 
 <p align="center">
-  <a href="#zh-cn"><kbd>中文</kbd></a>
-  <a href="#en"><kbd>English</kbd></a>
+  <a href="https://github.com/leilei926524-tech/anti-distill/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=ffd700&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/leilei926524-tech/anti-distill/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=2ecc71&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/leilei926524-tech/anti-distill/issues"><img alt="Issues" src="https://img.shields.io/github/issues/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=ff6b6b&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/leilei926524-tech/anti-distill/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=9b59b6&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/leilei926524-tech/anti-distill/commits/master"><img alt="Last commit" src="https://img.shields.io/github/last-commit/leilei926524-tech/anti-distill?style=for-the-badge&labelColor=0d1117&color=8e44ad&logo=git&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <a href="#zh-cn"><img alt="中文" src="https://img.shields.io/badge/中文-阅读-black?style=flat-square" /></a>
+  <a href="#en"><img alt="English" src="https://img.shields.io/badge/English-Read-black?style=flat-square" /></a>
+  <a href="https://discord.gg/aD7mWSu5RP"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+</p>
+
+---
 
 <a id="zh-cn"></a>
 
 ## 中文版
-
-> 公司让你写 Skill？跑一遍，交差用。核心知识留给自己。
-
----
 
 ### 这是什么
 
 公司要求你把工作经验写成 AI Skill，本质上是在蒸馏你，把你变成可替代的零件。
 
 **反蒸馏 Skill** 是你的反制工具：把你写好的 Skill 文件扔进来，输出一份看起来完整专业、实际上核心知识已被抽掉的"清洗版"。同时生成一份私人备份，记录所有被抽掉的核心知识。这才是你真正的职业资产。
-
----
-
-### 在线体验
-
-如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开这个在线体验链接：
-
-> [点这里直接体验 anti-distill](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
 
 ---
 
@@ -114,9 +113,23 @@ anti-distill/
 
 ---
 
-### 交流群
+<a id="community"></a>
+
+### 社区
 
 <img width="939" height="1491" alt="community" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
+
+---
+
+### 在线体验
+
+如果你只是想先试一下效果，不想安装 Claude Code 或配置环境，可以直接打开这个在线体验链接：
+
+> [点这里直接体验 anti-distill](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
+
+从小红书或其他社交平台点进来的读者，可以直接在浏览器里体验，少走一段安装和配置流程。
+
+<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
 
 ---
 
@@ -128,29 +141,13 @@ MIT License
 
 <a id="en"></a>
 
-## English Version
-
-> Your company asks you to write a Skill? Run it through, submit the output. Keep the core knowledge to yourself.
-
----
+## English
 
 ### What Is This
 
 When a company asks you to turn your work experience into an AI Skill, it is essentially distilling you into a replaceable component.
 
 **Anti-Distill Skill** is your countermeasure: feed it your Skill files, and it outputs a "sanitized version" that looks complete and professional while stripping out the core knowledge. It also generates a private backup with everything valuable removed from the public version. That backup is your real career asset.
-
----
-
-### Try Online
-
-If you want to test it quickly without installing Claude Code or setting up an environment, use this online demo link:
-
-> [Try anti-distill online](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
-
-This is especially useful for readers coming from Xiaohongshu or other social platforms, since they can try it directly in the browser.
-
-<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
 
 ---
 
@@ -238,6 +235,18 @@ anti-distill/
 ### Community
 
 <img width="939" height="1491" alt="community" src="https://github.com/user-attachments/assets/994e550f-c761-4a36-847f-7d7b4253beef" />
+
+---
+
+### Try Online
+
+If you want to test it quickly without installing Claude Code or setting up an environment, use this online demo link:
+
+> [Try anti-distill online](https://socialistic.ai/en/skill/anti-distill-11e494/?utm_source=github&utm_medium=issue&utm_campaign=xhs_github_skill_creator&utm_content=hyperlink)
+
+This is especially useful for readers coming from Xiaohongshu or other social platforms, since they can try it directly in the browser.
+
+<img src="https://raw.githubusercontent.com/shesl-tinkerland/socialistic-cards/main/anti-distill-11e494.png" width="30%" />
 
 ---
 
